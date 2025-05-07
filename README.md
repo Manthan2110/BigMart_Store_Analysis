@@ -1,6 +1,8 @@
-
 # 🛍️ BigMart Store Data Analysis 📊  
 *Making data-driven shopping decisions, so you don’t have to cry at your bank balance later! 💸*
+
+# Dashboard
+![Screenshot 2025-05-07 181854](https://github.com/user-attachments/assets/9c1a297c-7266-4311-bebf-f38b1d3facc9)
 
 ## 🧠 Business Problem
 
